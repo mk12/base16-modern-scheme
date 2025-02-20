@@ -1,0 +1,25 @@
+scheme: "Modern Light"
+author: "VS Code Authors and Mitchell Kember"
+base00: "ffffff"
+base01: "f8f8f8"
+base02: "e5ebf1"
+base03: "6e7681"
+base04: "616161"
+base05: "3b3b3b"
+base06: "1f1f1f"
+base07: "1f1f1f"
+base08: "a31515"
+base09: "0451a5"
+base0A: "795e26"
+base0B: "008000"
+base0C: "267f99"
+base0D: "0000ff"
+base0E: "af00db"
+base0F: "ee0000"
+
+# Options for blues:
+# 0000ff - harsh (used for base0D)
+# 001080 - navy
+# 0451a5 - mid (used for base09)
+# 0070c1 - light
+# 267f99 - turquoise (used for base06)
